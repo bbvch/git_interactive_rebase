@@ -9,3 +9,7 @@ of valuable software.
 2. Welcome changing requirements, even late in
 development. Agile processes harness change for
 the customer's competitive advantage.
+
+3. Some Nonsense
+   I would rather not have commited.
+   But we are editing this now
