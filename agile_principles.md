@@ -13,3 +13,6 @@ the customer's competitive advantage.
 3. Deliver working software frequently, from a
 couple of weeks to a couple of months, with a
 preference to the shorter timescale.
+
+4. Business people and developers must work
+together daily throughout the project.
