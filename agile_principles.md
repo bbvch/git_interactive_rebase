@@ -16,3 +16,7 @@ the customer's competitive advantage.
 
 4. Business people and developers must work
 together daily throughout the project.
+
+5. Build projects around motivated individuals.
+Give them the environment and support they need,
+and trust them to get the job done.
