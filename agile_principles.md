@@ -13,3 +13,6 @@ the customer's competitive advantage.
 3. Some Nonsense
    I would rather not have commited.
    But we are editing this now
+
+4. Business people and developers must work
+together daily throughout the project.
